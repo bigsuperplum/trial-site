@@ -2,6 +2,8 @@
 
 感觉这种页面太酷了，于是决定自己整一个（）
 
+mol SC!
+
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Commands
